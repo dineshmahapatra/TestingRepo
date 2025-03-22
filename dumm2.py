@@ -1,1 +1,1 @@
-fddsf
+print(10+3)
