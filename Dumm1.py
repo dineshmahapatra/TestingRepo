@@ -1,3 +1,1 @@
-jsgfdgfsjgd
-dfhdsfdsjhfs
-dshfdsjhfjds
+print(1+2)
